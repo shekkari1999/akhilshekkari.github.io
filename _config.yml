@@ -302,6 +302,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
+  - jekyll-remote-theme 
 
 # Mimic GitHub Pages with --safe
 whitelist:
