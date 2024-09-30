@@ -348,5 +348,4 @@ compress_html:
   ignore:
     envs: development
 
-remote_theme: jekyll-theme-modernist
-plugins:- jekyll-remote-theme # add this line to the plugins list if you already have one
+remote_theme: pages-themes/modernist@v0.2.0
